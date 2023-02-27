@@ -16,7 +16,7 @@ public class main {
     public static void main(String[] args) {
         // TODO code application logic here
         /*Hola*/
-        //Hola Odual
+        //Hola Odual*
     }
     
 }
